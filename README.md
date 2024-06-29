@@ -1,2 +1,1 @@
-![Huh](https://baidu.com)
-<iframe src"https://baidu.com"></iframe>
+如果你看到了这里，那就证明，你是活的！
